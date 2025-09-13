@@ -9,10 +9,10 @@ background-opacity = 0.96
 font-family-bold = Ubuntu Sans Mono Bold
 font-family-italic = Ubuntu Sans Mono Italic
 font-family-bold-italic = Ubuntu Sans Mono Bold Italic
-font-size= 12
+font-size= 8 
 keybind = ctrl+a=ignore
 window-decoration = true
-gtk-titlebar = false
+gtk-titlebar = true
 
 window-padding-balance = true
 window-height = 33
